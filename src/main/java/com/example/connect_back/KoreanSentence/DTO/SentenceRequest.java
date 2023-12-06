@@ -1,0 +1,1 @@
+package com.example.connect_back.KoreanSentence.DTO;import java.util.List;import lombok.Data;@Datapublic class SentenceRequest {    private String level;    private List<String> sentences;}

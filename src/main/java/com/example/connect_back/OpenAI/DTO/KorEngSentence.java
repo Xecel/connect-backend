@@ -1,0 +1,1 @@
+package com.example.connect_back.OpenAI.DTO;import lombok.Data;@Datapublic class KorEngSentence {    private String korSentence;    private String engSentence;}
